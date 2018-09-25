@@ -23,3 +23,16 @@
 * [x] Learn More detail about Python basics
 ### Sept 17,2018
 * [x] Continue machine learning course with exercise till now
+### Sept 22,2018
+* [x] Completed the machine learning course on Udacity.
+### Sept 23,2018
+* [x] Learn about panda and matplot Library.
+* [x] Completed The mini project Given by udacity on Naive Bayes and SVM.
+### Sept 24,2018
+* [x] Learn basics about mycroft skill training.
+
+### Sept 25,2018
+* [x] Learn basics  about project given By Ramkripal Sir.
+
+
+
