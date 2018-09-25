@@ -32,7 +32,7 @@
 * [x] Learn basics about mycroft skill training.
 
 ### Sept 25,2018
-* [x] Learn basics  about project given By Ramkripal Sir.
+* [x] Learn basics  about  Loan Dataset classifier project given By Ram Sir.
 
 
 
